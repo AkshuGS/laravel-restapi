@@ -48,7 +48,6 @@ php artisan db:seed
 {
   "data": [
     {
-      "id": 0,
       "location": {
         "latitude": 12.9231501,
         "longitude": 74.7818517
