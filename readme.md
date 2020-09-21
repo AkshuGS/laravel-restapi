@@ -71,7 +71,7 @@ php artisan db:seed
         }
       ],
       "comments": "This is a string of comments",
-      "incidentDate": "2020-09-01T13:26:00+00:00",
+      "incidentDate": "2020-09-01",
     }
   ]
 }
