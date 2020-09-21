@@ -1,6 +1,9 @@
 # Laravel 6.18 Rest Api
 
 This API is created using Laravel 6.18.10 API Resource. It has Incident, Incidentpeople and  Category Models.
+## .env
+
+Copy contents of .env.example file to .env file.
 
 ## Installation
 
