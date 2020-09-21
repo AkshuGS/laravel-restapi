@@ -37,6 +37,12 @@ php artisan db:seed
 
 # API EndPoints
 
+make serve using following command 
+
+```bash
+php artisan serve
+```
+
 ## Incidents
 
   * Incident GET http://localhost:8000/api/incidents/
