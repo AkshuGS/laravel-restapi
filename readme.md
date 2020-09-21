@@ -7,7 +7,8 @@ This API is created using Laravel 6.18.10 API Resource. It has Incident, Inciden
 Clone the project via git clone or download the zip file.
 
 Copy contents of .env.example file to .env file.
-go to the project directory via terminal and run the following command to install composer packages.
+
+Go to the project directory via terminal and run the following command to install composer packages.
 
 ```bash
 composer install
